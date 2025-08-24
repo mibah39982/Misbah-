@@ -83,4 +83,4 @@ This scaffold includes no offensive or hacking tools. It is intended for **legal
 - Expand the Learning Lab with more quizzes.
 - Add a personal notebook for study notes.
 - Implement session journaling for tracking experiments.
-- Build a React frontend dashboard.
+- Build a React frontend dashboard. 
