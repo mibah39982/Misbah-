@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.sqlite3
+*.db
+
+# Build & tooling
+dist/
+build/
+.coverage
+pytest_cache/
+.idea/
+.vscode/
