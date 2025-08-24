@@ -1,0 +1,5 @@
+typer
+fastapi
+uvicorn[standard]
+psutil
+rich

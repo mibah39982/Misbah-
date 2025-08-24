@@ -1,0 +1,14 @@
+{
+  "CVE-2025-0001": {
+    "id": "CVE-2025-0001",
+    "description": "A sample vulnerability description for a fictional software package. This allows for safe testing of the OSINT plugin.",
+    "cvss_v3": "7.8",
+    "severity": "HIGH"
+  },
+  "CVE-2025-0002": {
+    "id": "CVE-2025-0002",
+    "description": "Another sample vulnerability. This one relates to a fictional database component.",
+    "cvss_v3": "5.3",
+    "severity": "MEDIUM"
+  }
+}
