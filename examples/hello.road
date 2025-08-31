@@ -1,0 +1,4 @@
+# file: examples/hello.road
+
+// The classic first program for any Roadman.
+say("Wagwan, World!");
